@@ -1,0 +1,49 @@
+
+#container{
+    border: solid;
+    margin: 15%;
+    padding: 30px;
+    background-color: white;
+}
+
+#navbar{
+    display: flex;
+    gap: 100px;
+    border: solid;
+    border-radius: 20px;
+    width: 60%;
+    border-style: hidden;
+    background-color: blueviolet;
+    padding: 18px;
+    text-align: center;
+    margin-left: 15%;
+}
+#text1{
+    font-size: 110%;
+}
+#concept{
+    font-size: 160%;
+} 
+#text3{
+    float: left;
+}
+#text4{
+    display: flex;
+}
+#concept2{
+    display: flex;
+
+}
+#text5{
+    display: flex;
+    gap: 40px;
+}
+button{
+    width: 150px;
+    height: 50px;
+}
+
+
+
+
+
