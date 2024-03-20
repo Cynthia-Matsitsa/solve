@@ -1,23 +1,16 @@
 
-#container{
-    border: solid;
-    margin: 15%;
-    padding: 30px;
-    background-color: white;
-}
+#container{}
 
 #navbar{
-    display: flex;
-    gap: 100px;
     border: solid;
     border-radius: 20px;
+    gap: 100px;
+    display: flex;
+    padding: 15px;
     width: 60%;
-    border-style: hidden;
     background-color: blueviolet;
-    padding: 18px;
-    text-align: center;
-    margin-left: 15%;
 }
+
 #text1{
     font-size: 110%;
 }
@@ -42,6 +35,168 @@ button{
     width: 150px;
     height: 50px;
 }
+#text9{
+    font-size: 250%;
+
+}
+#dose1{
+    font-size: 170%;
+}
+#dose2{
+    font-size: 170%;
+}
+#text10{
+    font-size: 150%;
+}
+#num1{
+    font-size: 100%;
+}
+#plus{
+   border: solid;
+   border-radius: 10px;
+   width: 60px;
+   background-color:blueviolet;
+   border-style: hidden;
+   font-size: 25px ;
+
+
+
+}
+#holder{
+    gap: 2%;
+    display: flex;
+}
+#cap1{
+    border: solid;
+    border-radius: 10px;
+    background-color: green;
+    width: 50px;
+    border-style: hidden;
+
+
+}
+#cap{
+    display: flex;
+    gap: 2%;
+}
+#level6{
+    display: flex;
+    gap: 3%;
+    
+}
+#contain{
+    border: solid;
+    width: 20%;
+    border-top-left-radius: 9%;
+    border-top-right-radius: 9%;
+    border-bottom-left-radius: 9%;
+    border-bottom-right-radius: 9%;
+    padding: 10px;
+    border-style: bold;
+    text-align: center;
+    
+
+    
+}
+#plus2{
+    border: solid;
+    border-radius: 15px;
+    position: center;
+    background-color: black;
+}
+#plus3{
+    border-radius: 20px;
+    padding: 20px;
+}
+#plus4{
+    border-radius: 20px;
+    padding: 20px;
+}
+#plus5{
+    border-radius: 20px;
+    padding: 20px;
+}
+#learn{
+background-color: blueviolet;
+border-radius: 15px;
+padding: 15px;
+border-style: hidden;
+}
+#get{
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+    
+}
+#word1{
+    font-size: 140%;
+}
+#dose4{
+    font-size: 150%;
+}
+#pad{
+    border: solid;
+    background-color: black;
+    border-radius: 15px;
+    position: center;
+}
+#month{
+   display: flex;
+   gap: 40px; 
+}
+#word2{
+    font-size: 130%;
+}
+#tablet1{
+    background-color: green;
+    border-radius: 10px;
+    width: 50px;
+    border-style: hidden;
+}
+#plus1{
+    background-color: blueviolet;
+    border-radius: 10px;
+    width: 60px;
+    border-style: hidden;
+    font-size: 25px;
+
+}
+ 
+
+#holder4{
+    display: flex;
+    gap: 90px;
+    align-items: center;
+}
+#con1{
+    display: flex;
+    float: left;
+}
+#holder2{
+    display: flex;
+    gap: 2%;
+}
+#tablet{
+    display: flex;
+    gap: 3px;
+}
+#container2{
+    border: solid;
+    width: 20%;
+    border-top-left-radius: 9%;
+    border-top-right-radius: 9%;
+    border-bottom-left-radius: 9%;
+    border-bottom-right-radius: 9%;
+    padding: 10px;
+    border-style: bold;
+    text-align: center;
+}
+
+
+
+
+
+
 
 
 
