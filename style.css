@@ -9,6 +9,7 @@
     padding: 15px;
     width: 60%;
     background-color: blueviolet;
+    -w
 }
 
 #text1{
@@ -190,6 +191,36 @@ border-style: hidden;
     padding: 10px;
     border-style: bold;
     text-align: center;
+} 
+.test1{
+    background: red;
+
+}
+.test2{
+    background: green;
+}
+.test3{
+    font-size: 13px;
+}
+.test1:hover{
+    background: yellow;
+}
+.test1:hover~.test2{
+    background: blue;
+}
+.test1:hover~.test3{
+    font-size: 20px;
+}
+.test4{
+    border: solid;
+    border-radius: 15px;
+    text-align: center;
+
+}
+.button{
+    border: solid;
+    border-radius: 15px;
+    padding: 15px;
 }
 
 
