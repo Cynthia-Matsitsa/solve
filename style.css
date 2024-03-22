@@ -1,12 +1,12 @@
 #navbar{
     border: solid;
     border-radius: 20px;
-    gap: 100px;
+    gap: 140px;
     display: flex;
     padding: 15px;
-    width: 60%;
+    width: 90%;
     background-color: blueviolet;
-    
+    border-style: hidden;
 }
 
 #text1{
