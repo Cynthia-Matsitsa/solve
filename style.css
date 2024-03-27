@@ -1,17 +1,23 @@
 #navbar{
     border: solid;
     border-radius: 20px;
-    gap: 140px;
+    gap: 190px;
     display: flex;
     padding: 15px;
     width: 90%;
-    background-color: skyblue;
+    background-color: cadetblue;
     border-style: hidden;
 }
 
 #text1{
     font-size: 110%;
 }
+#image1{
+    gap: 80px;
+}
+
+
+
 #concept{
     font-size: 160%;
 } 
@@ -27,7 +33,7 @@
 }
 #text5{
     display: flex;
-    gap: 40px;
+    gap: 90px;
 }
 button{
     width: 150px;
@@ -162,7 +168,7 @@ border-style: hidden;
 
 #holder4{
     display: flex;
-    gap: 90px;
+    gap: 300px;
     align-items: center;
 }
 #con1{
@@ -208,9 +214,7 @@ border-style: hidden;
     font-size: 20px;
 }
 .test4{
-    border: solid;
-    border-radius: 15px;
-    text-align: center;
+    
 
 }
 .button{
@@ -232,7 +236,7 @@ border-style: hidden;
     padding: 15px;
 }
 #New{
-    font-size: 20px;
+    font-size: 19px;
 }
 #scribe{
     border: solid;
@@ -242,14 +246,22 @@ border-style: hidden;
 #footer{
     display: flex;
     gap: 350px;
+    background-color: cadetblue;
     border: solid;
-    border-radius: 20px;
-    padding: 20px;
-    background-color: skyblue;
+    border-style: hidden;
+    padding: 15px;
+    
+}
+#picture{
+    gap: 100px;
 }
 #placer{
-    background-color: skyblue;
+    background-color:whitesmoke;
+    padding: 50px;
+    margin: 3%;
+    
 }
+
 
 
 
