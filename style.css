@@ -7,6 +7,7 @@
     width: 90%;
     background-color: cadetblue;
     border-style: hidden;
+
 }
 
 #text1{
@@ -193,6 +194,7 @@ border-style: hidden;
     padding: 10px;
     border-style: bold;
     text-align: center;
+
 } 
 .test1{
     background: red;
@@ -234,6 +236,7 @@ border-style: hidden;
     border: solid;
     border-radius: 15px;
     padding: 15px;
+    border-style: hidden;
 }
 #New{
     font-size: 19px;
@@ -242,6 +245,7 @@ border-style: hidden;
     border: solid;
     border-radius: 15px;
     padding: 15px;
+    border-style: hidden;
 }
 #footer{
     display: flex;
@@ -261,6 +265,31 @@ border-style: hidden;
     margin: 3%;
     
 }
+#join{
+    font-size: 200%;
+    text-align: center;
+}
+#press{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+#holder4{
+    justify-content: center;
+}
+#text9{
+    text-align: center;
+}
+#text5{
+    justify-content: center;
+}
+ #concept2{
+    gap: 200px;
+    justify-content: center;
+ }
+ #calendar{
+    justify-content: center;
+ }
 
 
 
