@@ -215,10 +215,7 @@ border-style: hidden;
 .test1:hover~.test3{
     font-size: 20px;
 }
-.test4{
-    
 
-}
 .button{
     border: solid;
     border-radius: 15px;
@@ -294,8 +291,12 @@ border-style: hidden;
     justify-content: center;
     margin-left: 500px;
  }
-
-
+ #heal{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+ }
+ 
 
 
 
