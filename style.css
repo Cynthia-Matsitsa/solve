@@ -7,7 +7,12 @@
     width: 90%;
     background-color: cadetblue;
     border-style: hidden;
+    font-size: 20px;
+    padding-top: 20px;
 
+}
+#doc{
+    color: #df304d;
 }
 
 #text1{
@@ -16,12 +21,40 @@
 #image1{
     gap: 80px;
 }
+#image{
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+
+}
+#caption{
+    color:#eb3654;
+
+}
+#learn{
+    font-size: 20px;
+    color: #eb3654;
+    
+}
+#get{
+    font-size: 13px;
+    color: #eb3654;
+    
+}
+#scientists{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
 
 
 
 #concept{
-    font-size: 160%;
+    font-size: 40px;
 } 
+#image1{
+    width: 700px;
+}
 #text3{
     float: left;
 }
@@ -229,6 +262,11 @@ border-style: hidden;
     font-weight: bold;
     border-color: white;
 }
+#car{
+    height: 350px;
+    width: 350px;
+}
+
 #care{
     border: solid;
     border-radius: 15px;
